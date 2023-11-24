@@ -1,0 +1,39 @@
+.counter-text {
+    font-size: 1.5rem;
+}
+
+.plus {
+    color: blue;
+}
+
+.minus {
+    color: red;
+}
+
+.container-btn {
+    margin-top: 10px;
+    display: flex;
+}
+
+.btn-plus {
+    border: unset;
+    padding: 8px;
+    background: blue;
+    color: white;
+}
+
+.btn-minus {
+    border: unset;
+    padding: 8px;
+    margin-left: 0.5rem;
+    background: red;
+    color: white;
+}
+
+.btn-reset {
+    border: unset;
+    padding: 8px;
+    margin-left: 0.5rem;
+    background: green;
+    color: white;
+}
